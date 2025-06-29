@@ -1,0 +1,8 @@
+
+path: /dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 10
+names: ['teapot', 'cup_of_tea', 'meat', 'flatbread', 'sauce', 'salad1', 'salad2', 'soup1', 'soup2', 'vodka']
